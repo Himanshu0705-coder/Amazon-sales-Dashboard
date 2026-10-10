@@ -279,7 +279,7 @@ Some potential improvements for the project include:
 
 **Himanshu**
 
-Software Engineer | Data Analytics & Business Intelligence Enthusiast
+Data Analyst || Data Scientist Aspirant
 
 ### 🔗 GitHub
 
@@ -287,11 +287,7 @@ Software Engineer | Data Analytics & Business Intelligence Enthusiast
 
 ---
 
-## ⭐ If You Like This Project
 
-If you found this project useful or interesting, consider giving the repository a ⭐ **Star**.
-
-It helps support my learning and motivates me to build more data analytics and business intelligence projects.
 <img width="1307" height="733" alt="image" src="https://github.com/user-attachments/assets/229c2177-03a6-4fe4-8e8d-d393921c4df8" />
 
 <img width="1307" height="736" alt="image" src="https://github.com/user-attachments/assets/689bd57d-f66e-4a5a-9eca-59e5e1a2bf2a" />
@@ -304,6 +300,13 @@ It helps support my learning and motivates me to build more data analytics and b
 
 
 ---
+
+## ⭐ If You Like This Project
+
+If you found this project useful or interesting, consider giving the repository a ⭐ **Star**.
+
+It helps support my learning and motivates me to build more data analytics and business intelligence projects.
+
 
 ## 📄 License
 
