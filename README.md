@@ -292,6 +292,8 @@ Software Engineer | Data Analytics & Business Intelligence Enthusiast
 If you found this project useful or interesting, consider giving the repository a ⭐ **Star**.
 
 It helps support my learning and motivates me to build more data analytics and business intelligence projects.
+<img width="1311" height="732" alt="image" src="https://github.com/user-attachments/assets/1d6ca796-b244-4a6d-b54d-a0c7e54e4f70" />
+
 
 ---
 
